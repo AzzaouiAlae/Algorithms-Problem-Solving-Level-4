@@ -1,0 +1,3 @@
+﻿  Problem 65, FormatDate.cpp
+D:\source\08 - Problem Solving\Problem 65, FormatDate\Problem 65, FormatDate\Problem 65, FormatDate.cpp(22,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 65, FormatDate.vcxproj -> D:\source\08 - Problem Solving\Problem 65, FormatDate\x64\Debug\Problem 65, FormatDate.exe

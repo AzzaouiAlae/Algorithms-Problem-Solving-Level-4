@@ -1,0 +1,4 @@
+﻿  Project 1 Bank Extension 2.cpp
+D:\source\08 - Problem Solving\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(56,39): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\08 - Problem Solving\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(461,26): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+  Project 1 Bank Extension 2.vcxproj -> D:\source\08 - Problem Solving\Project 1 Bank Extension 2\x64\Debug\Project 1 Bank Extension 2.exe

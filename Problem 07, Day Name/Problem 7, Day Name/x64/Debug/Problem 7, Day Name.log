@@ -1,0 +1,4 @@
+﻿  Problem 7, Day Name.cpp
+D:\source\08 - Problem Solving\Problem 7, Day Name\Problem 7, Day Name\Problem 7, Day Name.cpp(31,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\source\08 - Problem Solving\Problem 7, Day Name\Problem 7, Day Name\Problem 7, Day Name.cpp(35,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Problem 7, Day Name.vcxproj -> D:\source\08 - Problem Solving\Problem 7, Day Name\x64\Debug\Problem 7, Day Name.exe

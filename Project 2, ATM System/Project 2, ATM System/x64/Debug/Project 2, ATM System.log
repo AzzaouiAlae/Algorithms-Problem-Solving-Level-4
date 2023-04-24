@@ -1,0 +1,4 @@
+﻿  Project 2, ATM System.cpp
+D:\source\08 - Problem Solving\Project 2, ATM System\Project 2, ATM System\Project 2, ATM System.cpp(255,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\08 - Problem Solving\Project 2, ATM System\Project 2, ATM System\Project 2, ATM System.cpp(317): warning C4715: 'FindClientByAccAndPass': not all control paths return a value
+  Project 2, ATM System.vcxproj -> D:\source\08 - Problem Solving\Project 2, ATM System\x64\Debug\Project 2, ATM System.exe
